@@ -1,0 +1,23 @@
+body{
+    background: linear-gradient(314deg, rgba(7, 5, 31, 0.783), rgba(65, 59, 59, 0.632));
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+}
+header{
+    text-align: center;
+}
+header p{
+    font-size: 70%;
+}
+.wrapper{
+    background: white;
+    margin-top: 5%;
+    
+}
+header ul{
+    list-style: none;
+}
+
+header li{
+    float: left;
+}
